@@ -9,3 +9,5 @@ This is a simple To-Do app built using basic HTML, CSS, and JavaScript. The app 
 - Update Task: Users can edit the description of a task by clicking on the task's description and modifying it inline. Pressing Enter or clicking outside the input field saves the changes.
 - Delete Task: Users can delete a task by clicking on the "Delete" button next to the task.
 - Persistence: The app uses the browser's local storage to persist the tasks, allowing the user to close and reopen the app without losing their tasks.
+
+App link: https://neon-arithmetic-86b878.netlify.app/
